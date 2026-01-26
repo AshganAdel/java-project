@@ -1,0 +1,6 @@
+projectKey=java-app
+serverUrl=http://localhost:9000/sonar
+serverVersion=9.9.8.100196
+dashboardUrl=http://localhost:9000/sonar/dashboard?id=java-app
+ceTaskId=AZv7xTmdhu_jIKvqACms
+ceTaskUrl=http://localhost:9000/sonar/api/ce/task?id=AZv7xTmdhu_jIKvqACms
