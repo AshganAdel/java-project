@@ -1,0 +1,16 @@
+- name: Install java 
+  hosts: all
+  roles:
+    - install_java
+
+- name: Install jenkins
+  hosts: all
+  roles:
+    - install_jenkins
+
+- name: install docker
+  hosts: all
+  roles:
+    - docker
+
+        
