@@ -57,8 +57,8 @@ The pipeline includes the following stages:
 
 ---
 
-![Jenkins Build](images/architecture.png)
+![Jenkins Build](images/jenkins.png)
 
-![SonarQube Quality Gate]  
+![SonarQube Quality Gate](images/sonar.png)  
 
-![DockerHub Image]('Screenshot from 2026-01-26 22-00-01.png')
+![DockerHub Image](images/docker.png)
