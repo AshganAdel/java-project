@@ -61,4 +61,4 @@ The pipeline includes the following stages:
 
 ![SonarQube Quality Gate]  
 
-![DockerHub Image](Screenshot from 2026-01-26 22-00-01.png)
+![DockerHub Image]('Screenshot from 2026-01-26 22-00-01.png')
