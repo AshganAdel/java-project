@@ -1,0 +1,10 @@
+vpc_name = "eks-vpc"
+vpc_cidr = "10.42.0.0/16"
+private_subnets = [ "10.42.1.0/24" , "10.42.2.0/24","10.42.4.0/24","10.42.5.0/24"]
+public_subnets = [ "10.42.3.0/24" ]
+ec2_name = "jenkins-server"
+key_name = "jenkinsKey"
+sg1_name = "jenkins-sg"
+ami = "ami-073130f74f5ffb161"
+instance_type = "c7i-flex.large"
+volume_size   = 30
