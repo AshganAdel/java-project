@@ -21,7 +21,7 @@ spec:
         image: ashganadel671/my-app:19
         imagePullPolicy: Always
         ports:
-        - containerPort: 8080
+        - containerPort: 8081
   strategy:
     type: RollingUpdate
     rollingUpdate:
