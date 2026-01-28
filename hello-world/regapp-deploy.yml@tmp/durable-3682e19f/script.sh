@@ -1,1 +1,0 @@
-sed -i 's#image:.*#ashganadel671/my-app:14#' deployment.yml
